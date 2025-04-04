@@ -1,1 +1,5 @@
-requirements.txt
+yfinance
+streamlit
+pandas
+numpy
+
